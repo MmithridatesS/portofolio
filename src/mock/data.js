@@ -40,7 +40,7 @@ export const projectsData = [
     img: 'logor.jpg',
     title: 'RoboFriends',
     info: 'My first react project',
-    info2: 'A simple and small react app which searches the name of robots and filter them out',
+    info2: 'A simple and small react app which searches the name of robots and filters them out',
     url: 'https://rrobofriendss.netlify.app/',
     repo: 'https://github.com/MmithridatesS/RoboFriends', // if no repo, the button will not show up
   },
@@ -50,7 +50,7 @@ export const projectsData = [
     title: 'Bg Generator',
     info: 'A site made only using HTML, CSS and some DOM-manipulation',
     info2: 'A background gets generated with any chosen two RGB colors.',
-    url: 'backgenn.netlify.app',
+    url: 'https://backgenn.netlify.app',
     repo: 'https://github.com/MmithridatesS/bggen', // if no repo, the button will not show up
   },
 ];
