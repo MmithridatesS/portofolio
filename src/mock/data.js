@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'My name is Mehrdad Mohammadzadeh, a passionate, hardworking and ambitious student of Duisburg-Essen university. I am 20 years old and currently living in Duisburg city.',
   paragraphTwo: 'Since a year ago, I am learning a lot of skills in web development field including HTML, CSS, JavaScript, React.js, etc with a strong eager to improve and broaden my technical skills and work experience.',
   paragraphThree: 'In this page you can check out some of my work samples.',
-  resume: '', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1qQlycqs0M9hJAFsjulCEsSO0hgPT1vS7/view?usp=sharing',
 };
 
 // PROJECTS DATA
