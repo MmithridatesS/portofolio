@@ -39,19 +39,19 @@ export const projectsData = [
     id: nanoid(),
     img: 'logor.jpg',
     title: 'RoboFriends',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    info: 'My first react project',
+    info2: 'A simple and small react app which searches the name of robots and filter them out',
+    url: 'https://rrobofriendss.netlify.app/',
+    repo: 'https://github.com/MmithridatesS/RoboFriends', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
     img: 'logob.jpg',
     title: 'Bg Generator',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    info: 'A site made only using HTML, CSS and some DOM-manipulation',
+    info2: 'A background gets generated with any chosen two RGB colors.',
+    url: 'backgenn.netlify.app',
+    repo: 'https://github.com/MmithridatesS/bggen', // if no repo, the button will not show up
   },
 ];
 
@@ -59,7 +59,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'MmithridatesS@gmail.com',
 };
 
 // FOOTER DATA
@@ -78,17 +78,17 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/mehrdad-mohammadzadeh-690208195/',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/MmithridatesS',
     },
   ],
 };
 
 // Github start/fork buttons
 export const githubButtons = {
-  isEnabled: true, // set to false to disable the GitHub stars/fork buttons
+  isEnabled: false, // set to false to disable the GitHub stars/fork buttons
 };
